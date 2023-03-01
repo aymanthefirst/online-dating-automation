@@ -1,0 +1,1 @@
+python -c "import t; t.doTheSwipes('colombia')"
